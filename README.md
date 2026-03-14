@@ -16,3 +16,6 @@ Random Forest achieved the highest accuracy of ~98%.
 
 ## Web Application
 Users can input Spotify audio features and predict whether a song is likely to become a hit.
+## Streamlit Application
+
+![App Screenshot](Streamlit_ss.png)
