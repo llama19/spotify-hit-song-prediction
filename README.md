@@ -1,5 +1,3 @@
-# Spotify-hit-song-prediction
-Machine learning model to predict Spotify hit songs using audio features
 # Spotify Hit Song Prediction
 
 This project uses machine learning to predict whether a Spotify track will become a hit based on its audio features.
